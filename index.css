@@ -1,0 +1,46 @@
+.mod{
+  text-shadow:2px 2px 5px black;
+}
+div{
+ text-align:center;
+ broder:2px solid red; 
+ color:red;
+ font-family:Comic sans MS;
+ font-size:45px;
+}
+.one{
+ text-align:left;
+ color:black;
+  font-size:35px;
+}
+.the{
+ text-align:left;
+ broder:2px solid red;
+ color:black;
+ font-family:Comic sans MS;
+ font-size:30px;
+ transition: all 1s ease;
+}
+.the:hover{
+  color:red;
+}
+ #modg{
+  width:130px;
+  float:left;
+} 
+#red{
+  width:50%;
+}
+#uho{
+ text-align:center; 
+}
+footer{
+  position:fixed;
+  bottom:0px;
+  left:0px;
+  background-color:red;
+  width:100%;bor
+  color:white;
+  height: 50px;
+  z-index: 1;
+}
